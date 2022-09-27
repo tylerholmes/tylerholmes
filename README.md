@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Tyler and I'm studying Computer Science. Here's some info about me!
+
+🔭 Work Experience.
+- **Software Engineer intern at Revel Systems** - Full-stack developer on an intern team [Atlanta, Ga Summer 2022] 
+- **Undergraduate Research Assistant at Kennesaw State Univeristy** - Cloud, Data, and Edge Systems Lab  [Marietta, Ga Oct. 2020 - May 2022]
+
+💬 Contact me via email or LinkedIn! tylergholmes@proton.me | www.linkedin.com/in/tylergholmes
+
 <!--
 **tylerholmes/tylerholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
