@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tyler and I'm studying Computer Science. Here's some info about me!
+My name is Tyler and I'm a computer science student. Here's some info about me!
 
 🔭 Work Experience.
 - **Software Engineer intern at Revel Systems** - Full-stack developer on an intern team [Atlanta, Ga Summer 2022] 
