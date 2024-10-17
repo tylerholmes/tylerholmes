@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is Tyler and I'm a computer science student. Here's some info about me!
+My name is Tyler and I'm a software engineer. Here's some info about me!
 
 🔭 Work Experience.
+- **Software Engineer III at American Express** - Backend developer working on Transaction Processing (Multirail Payments and Payment Orchestration)
 - **Software Engineer intern at Revel Systems** - Full-stack developer on an intern team [Atlanta, Ga Summer 2022] 
 - **Undergraduate Research Assistant at Kennesaw State Univeristy** - Cloud, Data, and Edge Systems Lab  [Marietta, Ga Oct. 2020 - May 2022]
 
